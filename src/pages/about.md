@@ -9,12 +9,11 @@ menus:
 template: page
 ---
 
-**Essence Alexander** is a Senior Software Engineer from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Essence Alexander** is a Senior Software Engineer from [San Francisco](https://en.wikipedia.org/wiki/San Francisco),  After graduating from The College of Visual Arts with a degree in Film, she worked for three small development companies based in Germany where she honed her design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Essence authors the most influential programming blog in the USA with over 100,000 page views a month. She lives in Las Vegas.
 
 *Thank You for reading!*
